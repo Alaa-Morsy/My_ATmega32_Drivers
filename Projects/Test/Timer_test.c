@@ -2,7 +2,7 @@
  * Timer_test.c
  *
  *  Created on: Oct 11, 2021
- *      Author: Arabtech
+ *      Author: Alaa-Morsy
  */
 
 #include "avr/interrupt.h"
